@@ -1,3 +1,6 @@
+This fork uses chanify instead of desktop notifs
+
+
 ZSH Auto-Notify
 ===============
 
