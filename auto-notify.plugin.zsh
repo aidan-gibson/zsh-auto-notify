@@ -21,6 +21,7 @@ export AUTO_NOTIFY_VERSION="0.8.1"
         'htop'
         'ssh'
         'nano'
+        'micro'
     )
 
 function _auto_notify_format() {
