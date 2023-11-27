@@ -162,10 +162,10 @@ function enable_auto_notify() {
 _auto_notify_reset_tracking
 
 
-platform="$(uname)"
-if [[ "$platform" == "Linux" ]] && ! type notify-send > /dev/null; then
-    printf "'notify-send' must be installed for zsh-auto-notify to work\n"
-    printf "Please install it with your relevant package manager\n"
-else
+#platform="$(uname)"
+#if [[ "$platform" == "Linux" ]] && ! type notify-send > /dev/null; then
+#    printf "'notify-send' must be installed for zsh-auto-notify to work\n"
+#    printf "Please install it with your relevant package manager\n"
+#else
     enable_auto_notify
-fi
+#fi
