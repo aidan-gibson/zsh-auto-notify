@@ -22,6 +22,8 @@ export AUTO_NOTIFY_VERSION="0.8.1"
         'ssh'
         'nano'
         'micro'
+        'yay'
+        'pacseek'
     )
 
 function _auto_notify_format() {
