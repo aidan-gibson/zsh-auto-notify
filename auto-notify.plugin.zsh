@@ -25,6 +25,7 @@ export AUTO_NOTIFY_VERSION="0.8.1"
         'yay'
         'pacseek'
         'screen'
+        'yt-dlp'
     )
 
 function _auto_notify_format() {
