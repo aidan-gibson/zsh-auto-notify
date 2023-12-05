@@ -15,7 +15,6 @@ export AUTO_NOTIFY_VERSION="0.8.1"
         'more'
         'man'
         'tig'
-        'watch'
         'git commit'
         'top'
         'htop'
@@ -26,6 +25,7 @@ export AUTO_NOTIFY_VERSION="0.8.1"
         'pacseek'
         'screen'
         'yt-dlp'
+        'nix'
     )
 
 function _auto_notify_format() {
