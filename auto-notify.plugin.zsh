@@ -26,6 +26,7 @@ export AUTO_NOTIFY_VERSION="0.8.1"
         'screen'
         'yt-dlp'
         'nix'
+        'su'
     )
 
 function _auto_notify_format() {
